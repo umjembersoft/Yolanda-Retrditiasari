@@ -1,0 +1,36 @@
+http://www.umm.ac.id/
+
+GET / HTTP/1.1
+ket : menerima data dari server
+===============================================================================================================
+Host: www.umm.ac.id
+ket : alamat web yang dituju
+===============================================================================================================
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:20.0) Gecko/20100101 
+ket : Komputer client menggunakan mozila firefox/20.0
+===============================================================================================================
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+ket : web bisa menerima dengan bahasa text /HTML
+===============================================================================================================
+Accept-Language: en-US,en;q=0.5
+ket : web bisa menerima bahasa inggris
+===============================================================================================================
+Accept-Encoding: gzip, deflate
+Cookie: __utma=243581658.1116221946.1380175032.1380175032.1380175032.1; __utmb=243581658.2.10.1380175032; __utmz=243581658.1380175032.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+ket : situs web yang dikunjungi
+===============================================================================================================
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+ket : Respon 
+==============================================================================================================
+Date: Thu, 26 Sep 2013 05:57:49 GMT
+ket : tanggal menerima respon 
+==============================================================================================================
+Server: Apache
+ket : web bisa dijalankan ke semua operasi
+==============================================================================================================
+Content-Encodingh: gzip
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
